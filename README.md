@@ -28,7 +28,7 @@ Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Suppo
 ![Image](http://i.imgur.com/WOKuzWc.jpg)
 <br/><br/>
 ![Image](http://i.imgur.com/O8V5zLn.jpg)
-<br/><br/>
+<br/><br/>root@hacker:/scripts# chmod a+x wifi-hacker
 ![Image](http://i.imgur.com/I1XYuIu.jpg)
 <br/><br/>
 ![EXTRAS](http://i.imgur.com/mqJpIAI.jpg)
